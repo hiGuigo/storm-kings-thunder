@@ -2,7 +2,7 @@
 
 O inventário do personagem é gerenciado por **slots**, que representam espaço físico e capacidade de transporte.
 
-Cada personagem possui um número de slots igual ao seu valor de **Força + 1d10**. Alternativamente, caso a Força seja menor que 10, o personagem pode optar por usar **10 slots fixos + 1d8**.
+Cada personagem possui um número de slots igual ao seu valor de **Força + 10**.
 
 **Itens equipados** pelo personagem **não ocupam slots**. Um item só passa a ocupar slots quando é **guardado no inventário**.
 
