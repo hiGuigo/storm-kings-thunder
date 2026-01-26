@@ -111,8 +111,6 @@ A vila ainda não está segura. E, se quiserem trazer algum tipo de ordem de vol
 
 O que vocês fazem agora?
 
-## 🎲 **SESSÃO 2 — Sombras sobre as Pedras Caídas**
-
 ## Resumo da Sessão
 
 O grupo iniciou a exploração pelo moinho de vento. Rakan avançou primeiro e encontrou dois goblins posicionados na parte alta da estrutura. O combate foi rápido e controlado; as criaturas foram eliminadas sem maiores complicações.
