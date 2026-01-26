@@ -110,3 +110,64 @@ Confiaram a segurança de uma mãe em luto a uma mulher que mal conhecem.
 A vila ainda não está segura. E, se quiserem trazer algum tipo de ordem de volta a este lugar, não podem deixar nada para trás.
 
 O que vocês fazem agora?
+
+## 🎲 **SESSÃO 2 — Sombras sobre as Pedras Caídas**
+
+## Resumo da Sessão
+
+O grupo iniciou a exploração pelo moinho de vento. Rakan avançou primeiro e encontrou dois goblins posicionados na parte alta da estrutura. O combate foi rápido e controlado; as criaturas foram eliminadas sem maiores complicações.
+
+Seguindo pela vila, passaram por uma residência já completamente depredada antes de alcançarem o cemitério. Lá, decidiram abrir a cripta Nandar. Enquanto Orfeu remexia os ossos do falecido ali enterrado, um espectro se manifestou, aparentemente despertado pela violação do túmulo. Rakan optou por não participar da profanação e observou de fora. Ainda assim, quando a criatura atacou, os três que permaneceram no interior conseguiram derrotá-la sem grandes dificuldades.
+
+Com a área limpa, continuaram para as últimas propriedades da vila. Na fazenda Nesper, encontraram dois goblins distraídos, brincando com abóboras na cabeça. Foram mortos sem resistência significativa. Na residência Xelbrin, um vulto atravessou o interior ao abrirem a porta. Após breve perseguição, identificaram a criatura como um tressym em fuga. Orfeu, ao investigar os documentos espalhados, concluiu que a casa pertencia a um contador. Também perceberam algo preso sob a enorme rocha que atravessava a construção, mas não conseguiram confirmar do que se tratava.
+
+Decidiram então avançar até a fortaleza Nandar. A ponte estava destruída, forçando o grupo a improvisar uma travessia com escadas retiradas do estábulo. Ao chegarem ao portão, encontraram soldados esmagados por uma das rochas caídas.
+
+Dentro das muralhas, o ambiente era de luto. Quatro guardas permaneciam reunidos ao redor do corpo de Velrosa Nandar. Após conversa, os aventureiros entenderam a situação da guarnição e auxiliaram nos próximos passos: vasculharam partes do forte, recolheram riquezas e dividiram o que encontraram entre si e os moradores sobreviventes, visando a reconstrução. Em seguida, acompanharam os guardas para levar o corpo de Velrosa até a cripta.
+
+Depois, trouxeram a carroça de Maria para dentro das muralhas e tornaram a fechar a passagem improvisada da ponte, tentando tornar o local mais seguro.
+
+Ao retornarem ao centro de comércio, descobriram que Kella havia desaparecido, deixando Maria sozinha.
+
+Pouco tempo depois, ouviram vozes do lado de fora da vila. Observando furtivamente, identificaram oito cavaleiros. Orfeu conduziu a negociação. O líder se apresentou como Xolkin Alassandar e afirmou estar procurando por Kella. Orfeu não permitiu sua entrada nem confirmou qualquer conhecimento sobre ela. Em determinado momento, Xolkin trocou um olhar discreto com um de seus homens, que partiu sozinho em outra direção, sem explicação clara.
+
+Logo após a partida do grupo, Kella emergiu das sombras e comentou apenas: “Vocês fizeram bem em desconfiar dele.”
+
+---
+
+### NPCs Importantes
+
+* **Maria** — Comerciante; permanece sob proteção do grupo. Dependente da segurança da vila para continuar seus negócios.
+* **Kella Darkhope** — Aliada cautelosa e evasiva; desapareceu temporariamente e retornou após a visita dos cavaleiros. Demonstra conhecer Xolkin e desconfiar dele.
+* **Velrosa Nandar** — Senhora de Nightstone; falecida. Seu corpo foi levado à cripta. Sua morte deixou a guarnição desmoralizada.
+* **Guardas de Nightstone** — Poucos sobreviventes, abatidos, mas cooperativos com os aventureiros. Buscam estabilidade e proteção.
+* **Xolkin Alassandar** — Líder de um grupo de oito cavaleiros. Procura por Kella. Mantém postura educada, porém suspeita. Intenções incertas.
+
+---
+
+### Locais Visitados (em ordem de exploração)
+
+* 10 — Moinho de vento
+* 4a — Residência Delfryndel
+* 6a — Cripta Nandar
+* 4g — Fazenda Nesper
+* 4h — Residência Xelbrin
+* 11 — Ponte da fortaleza Nandar
+* 12 — Portão do forte
+* 13 — Interior da muralha
+* 14 — Forte Nandar
+
+  * 14a — Grande salão
+  * 14c — Sala de descanso e biblioteca
+  * 14e — Aposento principal
+  * 14f — Cobertura
+
+---
+
+### Conflitos em Aberto
+
+* Motivações reais de Xolkin Alassandar e de seus cavaleiros.
+* Relação entre Kella e o grupo de Xolkin.
+* O que está preso sob a rocha na residência Xelbrin.
+* Estado geral de segurança de Nightstone após a morte de Velrosa e a redução da guarnição.
+* Possíveis remanescentes goblins ou outras ameaças ainda não identificadas na região.
